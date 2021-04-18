@@ -1,14 +1,11 @@
 # Maths-Mini-Project
 
-### Methods Completed
+### Remaining Taks
 
-- [x] Gauss Elimination
-- [x] Gauss Jordan
-- [x] LU Decomposition using forward and backward substitution
-- [x] Guass Seidel
-- [x] Gauss Jacobi
+- [ ] Writing code for adequacy of matrix
+- [ ] Finding the values of current and adding them in google sheets
+- [ ] Finding error in the indirect methods
+- [ ] Making slides
+- [ ] Recording the video
 
-### Methods Remaning
-
-- [ ] Cholesky
-- [ ] LDLT
+Atleast the first three have to be completed by today
